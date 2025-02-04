@@ -390,6 +390,9 @@ section .staff .staff_lista .item.hs{
 section .staff .staff_lista .item.dv{
 	box-shadow: 0px -2px rgb(219, 241, 241) inset, 0px 10px 10px rgb(130 233 230 / 10%);
 }
+section .staff .staff_lista .item.biz{
+	box-shadow: 0px -2px rgb(55, 56, 56) inset, 0px 10px 10px rgb(130 233 230 / 10%);
+}
 section .staff .staff_lista .item.sa{
 	box-shadow: 0px -2px rgb(255 119 119) inset, 0px 10px 10px rgb(255 119 119 / 10%);
 }
